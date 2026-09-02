@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./assets/profile-banner.png" alt="Carlos Gavilanes - Software Developer" width="100%" />
+</p>
 <h1 align="center">Hi, I'm Carlos Gavilanes </h1>
 
 <h3 align="center">Software Developer | Full Stack Development</h3>
